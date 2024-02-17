@@ -6,7 +6,7 @@
        text-align: center;
        max-width: 1320px;
        margin: 50px auto;
-       background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('/resources/Banner\ Image.png');
+       background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('./resources/Banner\ Image.png');
        -webkit-background-composite: 16px;
        background-repeat: no-repeat;
        background-size: contain;
@@ -69,7 +69,7 @@
        text-align: center;
        max-width: 1320px;
        margin: 100px auto;
-       background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('/resources/Vectorrr.png');
+       background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('./resources/Vectorrr.png');
        -webkit-background-composite: 16px;
        background-repeat: no-repeat;
        background-size: contain;
